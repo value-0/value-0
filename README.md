@@ -1,4 +1,4 @@
-## Hi Welcome to my repository！ 👋
+## Hi welcome to my repository！ 👋
 
 
 - 🔭 I currently work at a robotics company.
